@@ -1,6 +1,7 @@
 fastapi
 uvicorn[standard]
 sqlalchemy
+pandas
 beautifulsoup4
 python-multipart
 jinja2
